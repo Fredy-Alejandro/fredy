@@ -1,0 +1,2 @@
+# fredy
+Regresion logistica 
